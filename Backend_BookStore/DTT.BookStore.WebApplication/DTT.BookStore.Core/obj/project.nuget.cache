@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mm2WcvKXavPkdM7tEJL2x3sBs5UM11cQytJ9hh2d9EDyeoPZSL9Y3NWdwbtSCdH79ICree0bCA+L75dfQ4Qd9w==",
+  "success": true,
+  "projectFilePath": "D:\\STUDY\\TTTN-DATN\\Backend_BookStore\\DTT.BookStore.WebApplication\\DTT.BookStore.Core\\DTT.BookStore.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\A\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\5.0.5\\microsoft.aspnetcore.jsonpatch.5.0.5.nupkg.sha512",
+    "C:\\Users\\A\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\5.0.5\\microsoft.aspnetcore.mvc.newtonsoftjson.5.0.5.nupkg.sha512",
+    "C:\\Users\\A\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\A\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\A\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

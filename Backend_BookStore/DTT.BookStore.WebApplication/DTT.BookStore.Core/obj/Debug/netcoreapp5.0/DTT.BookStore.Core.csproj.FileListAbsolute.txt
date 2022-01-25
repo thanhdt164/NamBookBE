@@ -1,0 +1,12 @@
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.Core\bin\Debug\netcoreapp5.0\DTT.BookStore.Core.deps.json
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.Core\bin\Debug\netcoreapp5.0\DTT.BookStore.Core.dll
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.Core\bin\Debug\netcoreapp5.0\ref\DTT.BookStore.Core.dll
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.Core\bin\Debug\netcoreapp5.0\DTT.BookStore.Core.pdb
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.Core\obj\Debug\netcoreapp5.0\DTT.BookStore.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.Core\obj\Debug\netcoreapp5.0\DTT.BookStore.Core.AssemblyInfoInputs.cache
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.Core\obj\Debug\netcoreapp5.0\DTT.BookStore.Core.AssemblyInfo.cs
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.Core\obj\Debug\netcoreapp5.0\DTT.BookStore.Core.csproj.CoreCompileInputs.cache
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.Core\obj\Debug\netcoreapp5.0\DTT.BookStore.Core.dll
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.Core\obj\Debug\netcoreapp5.0\ref\DTT.BookStore.Core.dll
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.Core\obj\Debug\netcoreapp5.0\DTT.BookStore.Core.pdb
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.Core\obj\Debug\netcoreapp5.0\DTT.BookStore.Core.csprojAssemblyReference.cache

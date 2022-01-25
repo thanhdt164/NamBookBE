@@ -1,0 +1,9 @@
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.General\bin\Debug\netcoreapp3.1\DTT.BookStore.General.deps.json
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.General\bin\Debug\netcoreapp3.1\DTT.BookStore.General.dll
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.General\bin\Debug\netcoreapp3.1\DTT.BookStore.General.pdb
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.General\obj\Debug\netcoreapp3.1\DTT.BookStore.General.csprojAssemblyReference.cache
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.General\obj\Debug\netcoreapp3.1\DTT.BookStore.General.AssemblyInfoInputs.cache
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.General\obj\Debug\netcoreapp3.1\DTT.BookStore.General.AssemblyInfo.cs
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.General\obj\Debug\netcoreapp3.1\DTT.BookStore.General.csproj.CoreCompileInputs.cache
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.General\obj\Debug\netcoreapp3.1\DTT.BookStore.General.dll
+D:\STUDY\TTTN-DATN\Backend_BookStore\DTT.BookStore.WebApplication\DTT.BookStore.General\obj\Debug\netcoreapp3.1\DTT.BookStore.General.pdb
